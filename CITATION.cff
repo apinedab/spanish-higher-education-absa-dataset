@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below."
+title: "Spanish Higher Education ABSA Dataset"
+version: "1.0.0"
+type: dataset
+
+authors:
+  - family-names: "Pineda-Briseño"
+    given-names: "Anabel"
+    orcid: "https://orcid.org/0000-0002-5296-4210"
+
+  - family-names: "Oblitas Cruz"
+    given-names: "Jimy"
+    orcid: "https://orcid.org/0000-0001-7652-6672"
+
+repository-code: "https://github.com/apinedab/spanish-higher-education-absa-dataset"
